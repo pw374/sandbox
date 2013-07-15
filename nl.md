@@ -1,7 +1,7 @@
                            * plop 4
 
 plop
-* 0 
+** 0 
 
  * 1
  
@@ -16,6 +16,16 @@ plop
 
 
 
+plop
 
+3 * 4
 
-     * 5                  
+    4 * 5                  
+
+****xplop4****
+***xplop3***
+**plop2**
+*bonjour1*
+
+** Bonjour *le* monde ... 
+Comment ça va ? **        
