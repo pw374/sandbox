@@ -1,5 +1,6 @@
 Bonjour ***X**Y*
 
+Bonjour * **X**Y*
 
 Bonjour **X*Y
 
