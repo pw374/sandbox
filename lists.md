@@ -1,3 +1,5 @@
+# Having "fun" with lists...
+
 ### This is so wrong
 
     - 1
@@ -11,6 +13,7 @@
     - 9
      - 10
 
+## This is so, so wrong
 ``$ for i in {1..20} ; do for ((j=1;j<i;j++)) ; do echo -n ' '; done; echo \* $i ; done; for i in {20..1} ; do for ((j=1;j<i;j++)) ; do echo -n ' '; done; echo \* $i ; done; ``
 
 
