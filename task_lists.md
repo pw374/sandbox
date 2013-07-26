@@ -6,3 +6,6 @@ Does it work ?
       @mentions, #1234 refs
  - [ ] incomplete
  - [x] completed
+
+ok it doesn't work everywhere.
+https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
