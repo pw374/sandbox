@@ -1,6 +1,8 @@
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**,
+Does it work ?
+
+ - [ ] a task list item
+ - [ ] list syntax required
+ - [ ] normal **formatting**,
       @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
+ - [ ] incomplete
+ - [x] completed
