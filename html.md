@@ -1,1 +1,1 @@
- *<span color='blue'>foo</span>*
+ *<span style='color:blue'>foo</span>*
